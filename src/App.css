@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.featured {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 2px solid #61dafb;
+  border-radius: 10px;
+  background-color: rgba(97, 218, 251, 0.1);
+}
+
+.featured h2 {
+  color: #61dafb;
+}
+
+.featured ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.featured li {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
